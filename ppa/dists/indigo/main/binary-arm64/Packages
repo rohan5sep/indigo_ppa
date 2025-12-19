@@ -367,11 +367,11 @@ Version: 2.0-352
 Replaces: fxload,libsbigudrv2,libsbig,libqhy,indi-dsi,indigo-upb
 Depends: indigo-astrometry | astrometry.net, curl, libusb-1.0-0, libgudev-1.0-0, libavahi-compat-libdnssd1
 Filename: pool/main/i/indigo/indigo-2.0-352-arm64.deb
-Size: 54996220
-MD5sum: 71df965fdc290e2b5c97b7500a1551ea
-SHA1: 75b883059f48153de6c389c84577bff9bd2237c3
-SHA256: 5beb30a6feb5f045ead6a3b793db243505877cfc7d04372152fbe32c8091f529
-SHA512: 1ac0ee046f1d673934c82bcf8913ad25dffc34c978f6ae6bf85b0d3bc4b9c6c883ef38e4273999c9764fba1d394bde164924d026ddc6960d5192032ccc2f8748
+Size: 56741000
+MD5sum: 2dd1ba55bac97a578db916df85d0963a
+SHA1: 8e675c694323b62a29f90f356ef6ba3487ad1253
+SHA256: 28e2b5c9aa1b2fa688b232fd221d09da28930cbe157e94dcdbc487bdbd9bea80
+SHA512: 7a0e75552bda6c3a8b88533791c9d101aa6ca74a255f2f0c1a750c9cd511c63c55c3ba2f91abd5f4968ad49d9162c7679a33e98b70c442c3e0e45f793badabd8
 Description: INDIGO Framework and drivers
  INDIGO is a system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 Homepage: http://www.indigo-astronomy.org
